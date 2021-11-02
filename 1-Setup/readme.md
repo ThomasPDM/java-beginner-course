@@ -11,7 +11,7 @@ ext install vscjava.vscode-java-pack
 ```
 
 
-Ensuite, une fenêtre devrait s'ouvrir, vous indiquant que pour que l'extension fonctionne, il est nécessaire d'installer le kit de développement java (JDK). Si la fenêtre ne s'ouvre pas, il vous suffit d'aller sur le site d'[oracle](http://jdk.java.net/) pour le télécharger.
+Ensuite, ouvrez le fichier HelloWorld.java avec VSCode, une fenêtre devrait s'ouvrir, vous indiquant que pour que l'extension fonctionne, il est nécessaire d'installer le kit de développement java (JDK). Si la fenêtre ne s'ouvre pas, il vous suffit d'aller sur le site d'[oracle](http://jdk.java.net/) pour le télécharger.
 
 ![](_images/openjdk.jpg)
 <br><br>
@@ -27,13 +27,15 @@ sudo apt install openjdk-17-jdk-headless
 
 **Windows**
 
-Le fichier téléchargé est un exécutable, il suffit de le lancer pour l'installer.
+Le fichier téléchargé est un exécutable, il faut le lancer pour l'installer. Attention, lors de l'installation, il est nécessaire de configurer la variable d'environnement JAVA_HOME.
+
+![](_images/javahomewindows.jpg)
 <br><br>
 
 
 **Mac**
 
-Le fichier téléchargé est un exécutable, il faut le lancer pour l'installer, ensuite, il est nécessaire de définir la variable d'environnement en tapant la commande suivante dans le terminal.
+Le fichier téléchargé est un exécutable, il faut le lancer pour l'installer, ensuite, il est nécessaire de définir la variable d'environnement JAVA_HOME en tapant la commande suivante dans le terminal :
 
 ```
 export JAVA_HOME=`/usr/libexec/java_home`

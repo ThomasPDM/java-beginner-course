@@ -4,7 +4,7 @@ En java, chaque variable a un type, voici un tableau des principaux :
 | type    | correspondance       | exemple |
 | :------ |:-------------------- |:--------|
 | int     | entier               | 12      |
-| double  | réel                 | 12.65   |
+| double  | décimal              | 12.65   |
 | char    | caractère            | a       |
 | String  | chaîne de caractères | science |
 | boolean | booléen              | true    |
