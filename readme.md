@@ -18,6 +18,6 @@ Enfin, j'insiste, ce cours s'adresse aux débutants, les notions abordées ne se
 
 **Plan du cours**
 
-* [1-Setup/](https://github.com/ThomasPDM/java-beginner-course/tree/main/1-Setup) *<span style="color:gray">comment configurer son environnement de travail</span>*
-* [2-Programming/](https://github.com/ThomasPDM/java-beginner-course/tree/main/2-Programming) *<span style="color:gray">bases de la programmation</span>*
-* [3-Object_oriented_programming/](https://github.com/ThomasPDM/java-beginner-course/tree/main/3-Object_oriented_programming) *<span style="color:gray">bases de la programmation orientée objet</span>*
+* [1-Setup/](https://github.com/ThomasPDM/java-beginner-course/tree/master/1-Setup) *<span style="color:gray">comment configurer son environnement de travail</span>*
+* [2-Programming/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming) *<span style="color:gray">bases de la programmation</span>*
+* [3-Object_oriented_programming/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming) *<span style="color:gray">bases de la programmation orientée objet</span>*
