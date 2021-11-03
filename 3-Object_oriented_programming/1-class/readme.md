@@ -4,7 +4,7 @@
 
 Reprenons la classe précédente et ne nous occupons pas des portées pour l'instant :
 
-![](../_images/person4.jpg)
+![](../../_images/person4.jpg)
 
 Par convention, le nom de la classe commence toujours par une majuscule et est également le nom du fichier (on met donc une classe par fichier). Voici alors la définition de notre classe en Java :
 ```java

@@ -15,13 +15,13 @@ Lorsqu'on défini une classe, on peut définir ses attributs, ce sont les variab
 
 Par exemple, voici la classe Personne qui possède 3 attributs : nom (chaîne de caractères), prénom (chaîne de caractères) et âge (entier) :
 
-![](_images/person.jpg)
+![](../_images/person.jpg)
 
 Lors de la définition d'une classe, on peut définir ses méthodes, ce sont les fonctions qu'elle contient, pour chacune, il faut définir un type de valeur de retour, un nom et des paramètres.
 
 Par exemple, on peut ajouter une méthode à la classe précédente, celle-ci pourrait notamment servir à afficher chacun de ses attributs.
 
-![](_images/person2.jpg)
+![](../_images/person2.jpg)
 
 
 Il ne faut pas oublier une chose, une classe n'est qu'un type, une variable doit donc l'instancier, on appellera alors cette variable, un objet.
@@ -39,7 +39,7 @@ Cependant, l'initialisation est différente, elle doit se faire à l'aide d'un c
 
 Un constructeur est une méthode dont on ne précise pas la valeur de retour, elle permet d'initialiser l'objet. Dans le cas précédent, le constructeur le plus simple ne prendrait pas de paramètre et se contenterait de créer l'objet.
 
-![](_images/person3.jpg)
+![](../_images/person3.jpg)
 
 D'où l'initialisation :
 ```java
@@ -56,7 +56,7 @@ person.age = 31;
 
 Cependant, pour l'initialisation, on peut être plus efficace et créer un constructeur qui initialise les attributs avec les arguments passés en paramètres.
 
-![](_images/person4.jpg)
+![](../_images/person4.jpg)
 
 D'où l'initialisation :
 ```java
@@ -100,7 +100,7 @@ person.age = 22; // impossible sauf dans le fichier de la classe Person
 
 Il s'agit simplement d'une façon de représenter des classes, par exemple, la classe Person ressemble à ça :
 
-![](_images/person4.jpg)
+![](../_images/person4.jpg)
 
 Il est également possible de préciser la portée de chaque élément à l'aide de symbole.
 
@@ -112,11 +112,11 @@ Il est également possible de préciser la portée de chaque élément à l'aide
 
 À savoir que, par convention, généralement, la classe et ses méthodes ont une portée publique tandis que ses attributs ont une portée privée.
 
-![](_images/person5.jpg)
+![](../_images/person5.jpg)
 
 Dans ce cas, si on veut pouvoir modifier ou récupérer des attributs, il va falloir définir des méthodes adaptées. Un getter sert à récupérer un attribut et un setter sert à le modifier :
 
-![](_images/person6.jpg)
+![](../_images/person6.jpg)
 
 Les notions que j'ai abordées constitues les bases de la programmation orientée objet, avant de chercher à comprendre les concepts plus avancés, je recommande de prendre le temps de comprendre ceux-ci.
 <br><br>
@@ -127,4 +127,3 @@ Les notions que j'ai abordées constitues les bases de la programmation orienté
 * [1-class/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/1-class) *<span style="color:gray">définition d'une classe</span>*
 * [2-range/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/2-range) *<span style="color:gray">gestion de sa portée</span>*
 * [3-object/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/3-object) *<span style="color:gray">création d'un objet</span>*
-<br><br>
