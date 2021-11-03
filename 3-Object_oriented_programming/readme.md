@@ -1,4 +1,4 @@
-# **Programmation orientée objet**
+# **Programmation orientée objet (bases)**
 ## **C'est quoi ?**
 
 L'objectif de la programmation orientée objet est d'avoir des programmes plus structurés et d'éviter certaines répétitions.
@@ -48,9 +48,9 @@ person = new Person(); // new pas toujours nécessaire (dépend du langage)
 
 Ensuite, si on veut initialiser ou modifier les attributs de notre objet, voici ce à quoi ça ressemble dans la plupart des langages :
 ```java
-person.firstName = "Thomas";
-person.lastName = "PDM";
-person.age = 21;
+person.firstName = "John";
+person.lastName = "Smith";
+person.age = 31;
 ```
 
 
@@ -60,7 +60,7 @@ Cependant, pour l'initialisation, on peut être plus efficace et créer un const
 
 D'où l'initialisation :
 ```java
-person = new Person("Thomas", "PDM", 21);
+person = new Person("John", "Smith", 31);
 ```
 
 Enfin, dans la plupart des langages, une méthode d'un objet s'appelle comme une fonction sauf qu'on la préfixe du nom de l'objet :
@@ -96,9 +96,9 @@ person.age = 22; // impossible sauf dans le fichier de la classe Person
 ```
 <br>
 
-## **UML**
+## **Diagramme de classe (UML)**
 
-Il s'agit simplement d'une norme pour représenter des classes, par exemple, la classe Person ressemble à ça :
+Il s'agit simplement d'une façon de représenter des classes, par exemple, la classe Person ressemble à ça :
 
 ![](_images/person4.jpg)
 
@@ -113,19 +113,18 @@ Il est également possible de préciser la portée de chaque élément à l'aide
 À savoir que, par convention, généralement, la classe et ses méthodes ont une portée publique tandis que ses attributs ont une portée privée.
 
 ![](_images/person5.jpg)
+
+Dans ce cas, si on veut pouvoir modifier ou récupérer des attributs, il va falloir définir des méthodes adaptées. Un getter sert à récupérer un attribut et un setter sert à le modifier :
+
+![](_images/person6.jpg)
+
+Les notions que j'ai abordées constitues les bases de la programmation orientée objet, avant de chercher à comprendre les concepts plus avancés, je recommande de prendre le temps de comprendre ceux-ci.
 <br><br>
 
-
-## Pour aller plus loin
-
-Il existe évidemment beaucoup d'autres concepts de la programmation orientée objet, cependant, je pense qu'il faut déjà se concentrer sur les bases que je viens d'expliquer.
-
-Si vous voulez aller plus loin, je vous invite à consulter certains cours en ligne.
-<br><br>
 
 ## Revenons à Java
 
-* [1-class/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/1-class) *<span style="color:gray">fonctionnement de la programmation orientée objet</span>*
-* [2-range/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/2-range) *<span style="color:gray">syntaxe en Java</span>*
-* [3-object/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/3-object) *<span style="color:gray">pratiquer pour comprendre</span>*
+* [1-class/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/1-class) *<span style="color:gray">définition d'une classe</span>*
+* [2-range/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/2-range) *<span style="color:gray">gestion de sa portée</span>*
+* [3-object/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/3-object) *<span style="color:gray">création d'un objet</span>*
 <br><br>
