@@ -118,7 +118,9 @@ Dans ce cas, si on veut pouvoir modifier ou récupérer des attributs, il va fal
 
 ![](../_images/person6.jpg)
 
-Les notions que j'ai abordées constitues les bases de la programmation orientée objet, avant de chercher à comprendre les concepts plus avancés, je recommande de prendre le temps de comprendre ceux-ci.
+Si vous aussi vous voulez créer vos propres diagrammes de classes, Visual Paradigm propose un outil en [ligne](https://online.visual-paradigm.com/) gratuit pour le faire (il faut néanmoins s'inscrire).
+
+Enfin, les notions que j'ai abordées constituent les bases de la programmation orientée objet, avant de chercher à comprendre les concepts plus avancés, je recommande de prendre le temps de comprendre ceux-ci. 
 <br><br>
 
 
@@ -127,3 +129,4 @@ Les notions que j'ai abordées constitues les bases de la programmation orienté
 * [1-class/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/1-class) *<span style="color:gray">définition d'une classe</span>*
 * [2-range/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/2-range) *<span style="color:gray">gestion de sa portée</span>*
 * [3-object/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/3-object) *<span style="color:gray">création d'un objet</span>*
+* [4-exercices/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/4-exercices) *<span style="color:gray">pratiquer pour comprendre</span>*
