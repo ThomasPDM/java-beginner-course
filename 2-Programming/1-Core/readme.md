@@ -82,7 +82,19 @@ MAIN {
 ```
 
 Au passage, vous avez peut-être remarqué la présence de *;* à chaque fin de ligne, c'est pour signaler que l'instruction est terminée. Encore une fois, cela dépend des langages, mais généralement, après une instruction, on met un *;*.
-<br><br><br>
+<br><br>
+
+Enfin, j'en profite pour vous montrer les symboles les plus couramment utilisés pour des opérations arithmétiques simples :
+
+| opérateur | correspondance | exemple |
+| :-------- |:-------------- |:--------|
+| +         | addition       | a + b   |
+| -         | soustraction   | a - b   |
+| *         | multiplication | a * b   |
+| /         | division       | a / b   |
+| %         | modulo         | a % b   |
+
+<br><br>
 
 
 ## Intéractions utilisateur
