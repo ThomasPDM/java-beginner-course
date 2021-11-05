@@ -18,7 +18,12 @@ Ensuite, pour la remplir, il faut utiliser *add* :
 liste.add("Hello");
 ```
 
-Ainsi, le premier élément de la liste devient "Hello" (index 0), si je veux le supprimer, il faut utiliser *remove* :
+Ainsi, le premier élément de la liste devient "Hello" (index 0), pour le récupérer, c'est avec *get* :
+```java
+String hello = liste.get(0);
+```
+
+Pour le supprimer, il faut utiliser *remove* :
 ```java
 liste.remove(0);
 ```
