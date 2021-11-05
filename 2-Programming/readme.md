@@ -76,7 +76,7 @@
 
 ## Retour à Java
 
-* [8-collections/arrays/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/8-collections/arrays) *<span style="color:gray">utilisation des tableaux</span>*
-* [8-collections/lists/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/8-collections/lists) *<span style="color:gray">utilisation des listes</span>*
-* [8-collections/dictionaries/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/8-collections/dictionaries) *<span style="color:gray">utilisation des dictionnaires</span>*
+* [8-collections/1-arrays/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/8-collections/1-arrays) *<span style="color:gray">utilisation des tableaux</span>*
+* [8-collections/2-lists/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/8-collections/2-lists) *<span style="color:gray">utilisation des listes</span>*
+* [8-collections/3-dictionaries/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/8-collections/3-dictionaries) *<span style="color:gray">utilisation des dictionnaires</span>*
 * [9-exercices/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/9-exercices) *<span style="color:gray">pratiquer pour apprendre !</span>*
