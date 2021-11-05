@@ -125,7 +125,7 @@ La valeur de la variable phrase devient alors "hello".
 
 On pourrait maintenant modifier le main pour demander à l'utilisateur son prénom et l'afficher :
 ```php
-main {
+MAIN {
     PRINT("Bonjour, quel est ton prénom ?");
 
     STRING prenom;
