@@ -2,7 +2,7 @@
 
 Pour ce qui est de la portée, telle que nous l'avons fait, elle est dans le package (répertoire du fichier *Person.java*), c'est la portée mise par défaut quand on ne précise rien. Essayons maintenant de modifier la portée en suivant la convention mentionnée plus tôt :
 
-![](../../_images/person5.jpg)
+![](../../../_images/person5.jpg)
 
 ```java
 public class Person {
