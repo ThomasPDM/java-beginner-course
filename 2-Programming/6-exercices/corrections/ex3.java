@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class ex2 {
+public class ex3 {
 
     public static void main(String[] args) {
         int number = (int) (Math.random()*50);
