@@ -1,4 +1,4 @@
-public class ex3 {
+public class ex10 {
 
     static int compute(int i, int j) {
         return 2*(i+j);

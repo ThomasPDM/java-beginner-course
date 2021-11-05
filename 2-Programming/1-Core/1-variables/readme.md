@@ -9,10 +9,10 @@ En java, chaque variable a un type, voici un tableau des principaux :
 | String  | chaîne de caractères | science |
 | boolean | booléen              | true    |
 
-<br>
+<br><br>
 
 
-## Initialiser une variable
+## **Initialiser une variable**
 Pour déclarer une variable il faut indiquer son type puis lui donner un nom.
 ```java
 int entier;
@@ -27,10 +27,10 @@ On aurait d'ailleurs pu faire les deux en même temps.
 ```java
 int entier = 12;
 ```
-<br>
+<br><br>
 
 
-## Modifier une variable
+## **Modifier une variable**
 Pour modifier la variable, il suffit de réaffecter une valeur.
 ```java
 entier = 21;
@@ -46,10 +46,10 @@ Java offre d'ailleurs la possibilité d'écrire ça plus rapidement.
 entier += 2; // entier voit sa valeur augmenter de 2
 entier++; // entier voit sa valeur augmenter de 1
 ```
-<br>
+<br><br>
 
 
-## Informations supplémentaires
+## **Informations supplémentaires**
 Les opérateurs (+, -, *...) ne sont pas exclusivement réservés aux nombres, ils ont notamment des effets sur les chaînes de caractères ce qui peut s'avérer très utile dans certaines situations.
 
 ```java

@@ -1,6 +1,6 @@
 # **Dictionnaires**
 
-## Création et modification
+## **Création et modification**
 
 En Java, pour utiliser une liste, il faut importer la classe [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html) de la bibliothèque *java.util*.
 ```java
@@ -27,10 +27,11 @@ Pour supprimer le couple, il faut utiliser *remove* :
 ```java
 dictionnaire.remove("clé");
 ```
-<br>
+<br><br>
 
 
-## Méthodes utiles
+
+## **Méthodes utiles**
 
 Tout comme la liste, le dictionnaire possède ces méthodes :
 ```java
@@ -44,10 +45,11 @@ Mais en plus de ça, le dictionnaire en a deux bien plus spécifiques et utiles,
 dictionnaire.values(); // liste les valeurs du dictionnaire
 dictionnaire.keySet(); // liste les clés du dictionnaire
 ```
-<br>
+<br><br>
 
 
-## Parcours
+
+## **Parcours**
 
 Parcourir un dictionnaire pour le modifier n'a pas grand intérêt (selon moi), je recommande donc d'utiliser *for each*, voici comment afficher chacune de ses clés :
 ```java

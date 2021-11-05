@@ -1,4 +1,4 @@
-public class ex1 {
+public class ex7 {
 
     static void display(String[] array) {
         for (String element : array) {

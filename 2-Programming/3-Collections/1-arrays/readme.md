@@ -1,6 +1,6 @@
 # **Tableaux**
 
-## Création et modification
+## **Création et modification**
 
 **1D**
 
@@ -32,10 +32,11 @@ Il est également possible de créer des tableaux à plusieurs dimensions, le fo
 int[][] entiers2D = new int[10][10]; // tableau d'entiers à 10x10 éléments
 entiers2D[0][5] = 4; // le 6ème élément de la première ligne prend la valeur 4
 ```
-<br>
+<br><br>
 
 
-## Parcours
+
+## **Parcours**
 
 **1D**
 

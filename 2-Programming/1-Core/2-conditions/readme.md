@@ -1,6 +1,6 @@
 # **Conditions**
 
-## IF ELSE
+## **IF ELSE**
 
 Le principal mot clé pour conditionner un programme est if, à partir d'une expression booléenne (true / false), si l'expression est vrai, alors ce qui est entre les accolades du if sera exécuté.
 ```java
@@ -19,10 +19,11 @@ if (1 != 1) {
 	// sinon, exécute ce qui se trouve ici
 }
 ```
-<br>
+<br><br>
 
 
-## EXPRESSIONS BOOLÉENNES
+
+## **EXPRESSIONS BOOLÉENNES**
 
 Pour une expression booléenne, il existe de nombreux opérateurs, voici les plus fréquents.
 | opérateur | correspondance    | exemple |
@@ -51,10 +52,11 @@ if (!estRose) {
 	System.out.println("Ce n'est pas rose !");
 }
 ```
-<br>
+<br><br>
 
 
-## SWITCH
+
+## **SWITCH**
 
 Un autre moyen d'ajouter des conditions est d'utiliser un switch, l'idée est d'indiquer une variable et de différencier le traitement en fonction de sa valeur.
 ```java

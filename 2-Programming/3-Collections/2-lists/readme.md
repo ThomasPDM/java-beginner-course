@@ -1,6 +1,6 @@
 # **Listes**
 
-## Création et modification
+## **Création et modification**
 
 En Java, pour utiliser une liste, il faut importer la classe [ArrayList](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html) de la bibliothèque *java.util*.
 ```java
@@ -27,10 +27,11 @@ Pour le supprimer, il faut utiliser *remove* :
 ```java
 liste.remove(0);
 ```
-<br>
+<br><br>
 
 
-## Méthodes utiles
+
+## **Méthodes utiles**
 
 La liste permet de récupérer le nombre d'éléments dans la collection avec *size* :
 ```java
@@ -46,10 +47,11 @@ Et même de la vider avec *clear* :
 ```java
 liste.clear();
 ```
-<br>
+<br><br>
 
 
-## Parcours
+
+## **Parcours**
 
 Le parcours fonctionne de la même manière qu'avec un tableau, si on cherche à ajouter des valeurs, l'utilisation d'un *for* classique est recommandée :
 ```java

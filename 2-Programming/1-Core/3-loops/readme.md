@@ -1,6 +1,6 @@
 # **Boucles**
 
-## WHILE
+## **WHILE**
 
 Tant que la condition est vraie, tourne dans la boucle.
 ```java
@@ -19,10 +19,11 @@ do {
 	entier++; // l'augmente de 1
 } while (entier < 6); // recommence tant qu'il est plus petit que 6
 ```
-<br>
+<br><br>
 
 
-## FOR
+
+## **FOR**
 
 Pour quelque chose allant de tant à tant, tourne dans la boucle.
 ```java

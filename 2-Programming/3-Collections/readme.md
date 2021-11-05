@@ -1,14 +1,16 @@
 # **Programmation #3**
 
 Pour ce qui va suivre, je vais expliquer ce qu'est la programmation sans trop me rapprocher d'un langage, dans un premier temps, l'idée est de comprendre ce qu'est la programmation. 
-<br><br>
+<br><br><br>
+
 
 
 En informatique, une collection est un regroupement de données, l'idée est d'avoir une grande variable qui en contient plusieurs autres.
 <br><br><br>
 
 
-## Tableau
+
+## **Tableau**
 
 Un tableau est une collection de taille définie, à la déclaration, on décide du type de variable qu'il contient ainsi que son nombre de cases.
 
@@ -43,7 +45,8 @@ flotants[2][4] = 3.14;
 <br><br>
 
 
-## Liste
+
+## **Liste**
 
 Une liste fonctionne comme un tableau, sauf que sa taille n'est pas définie, elle commence vide puis on ajoute des éléments au fur et à mesure.
 
@@ -67,7 +70,7 @@ Pour le reste, ça fonctionne globalement comme un tableau.
 
 
 
-## Dictionnaire
+## **Dictionnaire**
 
 Un dictionnaire est un genre de tableau où on peut personnaliser l'index, c'est-à-dire que l'index pourrait très bien être une chaîne de caractères au lieu d'un entier.
 
@@ -86,7 +89,7 @@ dictionnaire["pi"] = 3.14;
 
 
 
-## Retour à Java
+## **Retour à Java**
 
 * [1-arrays/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/3-Collections/1-arrays) *<span style="color:gray">utilisation des tableaux</span>*
 * [2-lists/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/3-Collections/2-lists) *<span style="color:gray">utilisation des listes</span>*

@@ -6,7 +6,8 @@ L'objectif de la programmation orientée objet est d'avoir des programmes plus s
 L'idée est de créer des types personnalisés, par exemple, si je veux stocker plusieurs informations sur une personne, plutôt que de créer plusieurs variables pour les stocker, je vais directement créer un type Personne, il ne me restera alors qu'à créer une variable de ce type pour stocker tout ce dont j'ai besoin.
 
 Ce genre de type personnalisé s'appelle une classe et permet de contenir plusieurs variables et même plusieurs fonctions de tout type.
-<br><br>
+<br><br><br>
+
 
 
 ## **Classe**
@@ -25,7 +26,8 @@ Par exemple, on peut ajouter une méthode à la classe précédente, celle-ci po
 
 
 Il ne faut pas oublier une chose, une classe n'est qu'un type, une variable doit donc l'instancier, on appellera alors cette variable, un objet.
-<br><br>
+<br><br><br>
+
 
 
 ## **Objet**
@@ -67,7 +69,8 @@ Enfin, dans la plupart des langages, une méthode d'un objet s'appelle comme une
 ```java
 person.printAttributes(); // Exécute la méthode printAttributes
 ```
-<br>
+<br><br>
+
 
 
 ## **Portée**
@@ -94,9 +97,11 @@ Ainsi, depuis un autre fichier, il sera impossible de modifier l'âge :
 ```java
 person.age = 22; // impossible sauf dans le fichier de la classe Person
 ```
-<br>
+<br><br>
 
-## **Diagramme de classe (UML)**
+
+
+## **Diagramme de classes (UML)**
 
 Il s'agit simplement d'une façon de représenter des classes, par exemple, la classe Person ressemble à ça :
 
@@ -121,10 +126,11 @@ Dans ce cas, si on veut pouvoir modifier ou récupérer des attributs, il va fal
 Si vous aussi vous voulez créer vos propres diagrammes de classes, Visual Paradigm propose un outil en [ligne](https://online.visual-paradigm.com/) gratuit pour le faire (il faut néanmoins s'inscrire).
 
 Enfin, les notions que j'ai abordées constituent les bases de la programmation orientée objet, avant de chercher à comprendre les concepts plus avancés, je recommande de prendre le temps de comprendre ceux-ci. 
-<br><br>
+<br><br><br>
 
 
-## Revenons à Java
+
+## **Revenons à Java**
 
 * [1-class/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/1-class) *<span style="color:gray">définition d'une classe</span>*
 * [2-range/](https://github.com/ThomasPDM/java-beginner-course/tree/master/3-Object_oriented_programming/2-range) *<span style="color:gray">gestion de sa portée</span>*

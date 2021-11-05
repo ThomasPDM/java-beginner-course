@@ -10,7 +10,8 @@ Ne paniquez pas, vous comprendrez mieux pourquoi je dis ça dans la partie progr
 <br><br>
 
 
-## Fonction sans valeur de retour et sans paramètre
+
+## **Fonctions sans valeur de retour et sans paramètre**
 
 Revenons à nos moutons, avant d'utiliser une fonction, il faut la définir, c'est ce que faisait la ligne précédente. Il faut d'abord indiquer le type de valeur renvoyée par la fonction, ici, "void" (néant), autrement dit, rien. Ensuite, on lui donne un nom et on indique ses paramètres entre parenthèses. Enfin, on ouvre les accolades pour écrire ce qui sera exécuté lors de l'appel de la fonction.
 ```java
@@ -23,10 +24,11 @@ Pour appeler une fonction, rien de compliqué :
 ```java
 fonction(); // affichera alors "super fonction !" dans la console
 ```
-<br>
+<br><br>
 
 
-## Fonction avec valeur de retour
+
+## **Fonctions avec valeurs de retours**
 
 Le mot-clé return permet à la fonction de renvoyer quelque chose, il faut néanmoins que le type de ce qui est renvoyé soit préciser devant la fonction.
 ```java
@@ -40,10 +42,11 @@ Ainsi, il faut prendre en compte ce qui est renvoyé dans l'appel.
 int entier = renvoiLeNombre12();
 System.out.println(entier); // affiche 12
 ```
-<br>
+<br><br>
 
 
-## Fonction avec paramètres
+
+## **Fonctions avec paramètres**
 
 En Java, définir des paramètres s'apparente à déclarer des variables :
 ```java

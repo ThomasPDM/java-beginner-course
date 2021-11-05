@@ -1,10 +1,11 @@
 # **Programmation #2**
 
 Pour ce qui va suivre, je vais expliquer ce qu'est la programmation sans trop me rapprocher d'un langage, dans un premier temps, l'idée est de comprendre ce qu'est la programmation.
-<br><br>
+<br><br><br>
 
 
-## **Fonction**
+
+## **Fonctions**
 
 En programmation, une fonction est un genre de sous-programme qui s'exécute lorsqu'on l'appelle.
 
@@ -24,6 +25,7 @@ maFonction();
 
 Les parenthèses sont nécessaires, elles permettent de différencier une fonction d'une variable, de plus, elles peuvent contenir des paramètres/arguments, nous verrons ça par la suite.
 <br><br><br>
+
 
 
 ## **Valeurs de retours**
@@ -59,6 +61,7 @@ bonjour = donneBonjour(); // "bonjour"
 <br><br>
 
 
+
 ## **Paramètres**
 
 Entre les parenthèses d'une fonction, il est possible de définir des paramètres, pour qu'ensuite, à l'appel, on passe des arguments correspondants entre les parenthèses.
@@ -84,7 +87,8 @@ INTEGER addition(INTEGER a, INTEGER b) {
 <br><br>
 
 
-## Retour à Java
+
+## **Retour à Java**
 
 * [1-functions/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/2-Functions/1-functions) *<span style="color:gray">fonctions > répétitions</span>*
 * [2-exercices/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/2-Functions/2-exercices) *<span style="color:gray">pratiquer pour apprendre !</span>*

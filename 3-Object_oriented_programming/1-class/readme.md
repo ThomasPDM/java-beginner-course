@@ -1,6 +1,6 @@
-# **Classe en Java**
+# **Classe**
 
-## Créer une classe
+## **Créer une classe**
 
 Reprenons la classe précédente et ne nous occupons pas des portées pour l'instant :
 
@@ -27,7 +27,8 @@ class Person {
     }
 }
 ```
-<br>
+<br><br>
+
 
 
 ## Éviter les ambiguïtés

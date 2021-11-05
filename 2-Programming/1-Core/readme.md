@@ -1,15 +1,15 @@
 # **Programmation #1**
 
 Pour ce qui va suivre, je vais expliquer ce qu'est la programmation sans trop me rapprocher d'un langage, dans un premier temps, l'idée est de comprendre ce qu'est la programmation.
-<br><br>
+<br><br><br>
 
 
-## Programme
+
+## **Programme**
 
 L'exécution d'un programme part toujours d'un fichier, généralement, celle-ci vient du *main*.
 
 C'est la zone principale du programme, celle à partir de laquelle tout commence, tout ce qui se trouve à l'intérieur sera exécuté en suivant l'ordre d'apparition.
-
 ```php
 MAIN {
 
@@ -36,7 +36,8 @@ MAIN {
 <br><br>
 
 
-## Variables
+
+## **Variables**
 
 Une variable est quelque chose qui varie et qui possède une valeur, généralement, elle a un type, voici un tableau des principaux :
 
@@ -97,7 +98,8 @@ Enfin, j'en profite pour vous montrer les symboles les plus couramment utilisés
 <br><br>
 
 
-## Intéractions utilisateur
+
+## **Intéractions utilisateur**
 
 Souvent, quand on lance un programme, un terminal (console, invite de commandes...) est visible et c'est même à l'intérieur que l'exécution se fait !
 
@@ -136,7 +138,8 @@ main {
 <br><br>
 
 
-## Conditions
+
+## **Conditions**
 
 Dans un programme, on veut pouvoir modifier le fils d'exécution sous certaines conditions, c'est alors qu'entre en jeu deux mots clé *IF* et *ELSE*.
 
@@ -174,10 +177,11 @@ Il existe également des opérateurs entre expressions booléennes :
 | OR        | ou             | estRose OR estPale   |
 | NOT       | non (opposé)   | NOT estRose          |
 
-<br><br><br>
+<br><br>
 
 
-## Boucles
+
+## **Boucles**
 
 En informatique, on aime assez peu les répétitions, l'un des moyens d'en éviter, c'est d'utiliser des boucles.
 
@@ -207,13 +211,14 @@ En plus de *WHILE*, *FOR* permet d'initialiser une variable et d'appliquer un tr
 <br><br><br>
 
 
-## Bibliothèques
+
+## **Bibliothèques**
 
 En informatique, une bibliothèque est un genre de programme déjà existant qu'on utilise dans le nôtre. L'idée est de ne pas réinventer la roue et d'utiliser ce qui existe déjà. De plus, généralement, les bibliothèques sont optimisées pour maximiser les performances.
 <br><br><br>
 
 
-## Retour à Java
+## **Retour à Java**
 
 * [0-java_files/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/1-Core/0-java_files) *<span style="color:gray">création d'un programme</span>*
 * [1-variables/](https://github.com/ThomasPDM/java-beginner-course/tree/master/2-Programming/1-Core/1-variables) *<span style="color:gray">utilisation des variables</span>*

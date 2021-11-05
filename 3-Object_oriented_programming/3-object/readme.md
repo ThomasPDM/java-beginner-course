@@ -1,4 +1,4 @@
-# **Créer un objet (instancier une classe) en Java**
+# **Créer un objet (instancier une classe)**
 
 Généralement, la méthode main nécessaire à l'exécution du programme se définit dans la classe Main d'un fichier *Main.java*, dans ce fichier, on peut créer un objet à partir de notre classe.
 

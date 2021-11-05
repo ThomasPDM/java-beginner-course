@@ -1,5 +1,7 @@
 # **Installer Java**
 
+## **VSCode**
+
 L'environnement de développement interactif (IDE) que je recommande est VSCode, il est très simple d'utilisation et s'adapte à énormément de langages informatiques.
 
 Je vous invite donc à télécharger et installer [VSCode](https://code.visualstudio.com/).
@@ -9,7 +11,11 @@ Il faut ensuite installer l'extension recommandée pour Java [Extension Pack for
 ```
 ext install vscjava.vscode-java-pack
 ```
+<br><br>
 
+
+
+## **Java**
 
 Ensuite, ouvrez le fichier HelloWorld.java avec VSCode, une fenêtre devrait s'ouvrir, vous indiquant que pour que l'extension fonctionne, il est nécessaire d'installer le kit de développement java (JDK). Si la fenêtre ne s'ouvre pas, il vous suffit d'aller sur le site d'[oracle](http://jdk.java.net/) pour le télécharger.
 
@@ -33,6 +39,7 @@ Le fichier téléchargé est un exécutable, il faut le lancer pour l'installer.
 <br><br>
 
 
+
 **Mac**
 
 Le fichier téléchargé est un exécutable, il faut le lancer pour l'installer, ensuite, il est nécessaire de définir la variable d'environnement JAVA_HOME en tapant la commande suivante dans le terminal :
@@ -41,7 +48,11 @@ Le fichier téléchargé est un exécutable, il faut le lancer pour l'installer,
 export JAVA_HOME=`/usr/libexec/java_home`
 ```
 N'ayant pas de Mac, je n'ai pas pu tester, si ça ne fonctionne pas, il existe beaucoup de tutoriels sur internet, [celui-ci](https://www.youtube.com/watch?v=hts1lGSKZfc) par exemple.
-<br><br>
+<br><br><br>
+
+
+
+## **Test**
 
 Normalement, vous devriez maintenant pouvoir exécuter un fichier java, je vous invite donc à redémarrer VSCode et ouvrir le programme HelloWorld.java pour le lancer.
 
