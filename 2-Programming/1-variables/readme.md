@@ -53,7 +53,7 @@ entier++; // entier voit sa valeur augmenter de 1
 Les opérateurs (+, -, *...) ne sont pas exclusivement réservés aux nombres, ils ont notamment des effets sur les chaînes de caractères ce qui peut s'avérer très utile dans certaines situations.
 
 ```java
-String prenom = Thomas;
+String prenom = "Thomas";
 System.out.println("Bonjour, je me prénomme " + prenom);
 ```
 

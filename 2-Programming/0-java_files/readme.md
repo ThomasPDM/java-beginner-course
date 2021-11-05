@@ -41,7 +41,7 @@ class hello {
 
 Pour afficher un message dans le terminal, cela ce fait à l'aide de cette ligne :
 ```java
-System.out.println("le super message que j'affiche")
+System.out.println("le super message que j'affiche");
 ```
 <br>
 
