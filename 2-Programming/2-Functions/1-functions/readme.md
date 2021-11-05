@@ -1,7 +1,5 @@
 # **Fonctions**
 
-En programmation, une fonction est un genre de sous-programme qui s'exécute lorsqu'on l'appelle.
-
 En java il n'existe pas vraiment de fonction, cependant, pour faciliter la compréhension, on va dire que ceci en est une :
 ```java
 static void fonction() {
@@ -47,15 +45,15 @@ System.out.println(entier); // affiche 12
 
 ## Fonction avec paramètres
 
-Le mot-clé return permet à la fonction de renvoyer quelque chose, il faut néanmoins que le type de ce qui est renvoyé soit préciser devant la fonction.
+En Java, définir des paramètres s'apparente à déclarer des variables :
 ```java
-static int addition(int a, int b) { // fonction renvoyant le résultat de l'addition
+static int addition(int a, int b) { // a et b sont des paramètres
 	return a + b;
 }
 ```
 
 Ainsi, il faut prendre en compte les paramètres lors de l'appel.
 ```java
-int entier = addition(5, 4);
+int entier = addition(5, 4); // 5 et 4 sont des arguments
 System.out.println(entier); // affiche 9
 ```
