@@ -47,6 +47,7 @@ Une variable est quelque chose qui varie et qui possède une valeur, généralem
 | CHARACTER | caractère            | a       |
 | STRING    | chaîne de caractères | science |
 | BOOLEAN   | booléen              | TRUE    |
+
 <br>
 
 Pour créer une variable, il y a plusieurs étapes, la première est la déclaration, on lui donne un nom et on lui précise son type (pas toujours, ça dépend du langage) :
@@ -151,6 +152,7 @@ Il est alors important d'apprendre à faire des expressions booléennes, voici d
 | <=        | inférieur ou égal | a <= b  |
 | >         | supérieur         | a > b   |
 | >=        | supérieur ou égal | a >= b  |
+
 <br>
 
 Il existe également des opérateurs entre expressions booléennes :
@@ -159,6 +161,7 @@ Il existe également des opérateurs entre expressions booléennes :
 | AND       | et             | estRose AND estPale  |
 | OR        | ou             | estRose OR estPale   |
 | NOT       | non (opposé)   | NOT estRose          |
+
 <br><br><br>
 
 
