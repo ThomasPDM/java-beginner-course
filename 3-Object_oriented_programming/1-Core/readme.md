@@ -17,7 +17,7 @@ Lorsqu'on défini une classe, on peut définir ses attributs, ce sont les variab
 
 Par exemple, voici la classe Personne qui possède 3 attributs : nom (chaîne de caractères), prénom (chaîne de caractères) et âge (entier) :
 
-![](../../_images/person.jpg)
+![](../../_images/person1.jpg)
 
 Lors de la définition d'une classe, on peut définir ses méthodes, ce sont les fonctions qu'elle contient, pour chacune, il faut définir un type de valeur de retour, un nom et des paramètres.
 
