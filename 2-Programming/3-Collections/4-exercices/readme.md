@@ -11,14 +11,24 @@ Rose, Martha, Donna, Amy, Clara, Bill
 
 ## **Exercice 8**
 
-...
-<br><br><br>
+Initialiser une liste et faire en sorte que l'utilisateur la remplisse mot par mot, tant qu'il n'a pas écrit le mot "stop".
+
+Attention, pour comparer des chaînes de caractères, il vaut mieux privilégier *equals* à *==* :
+
+```java
+String mot = "bonjour";
+boolean estEgal = mot.equals("bonsoir"); // false
+```
+<br><br>
 
 
 
 ## **Exercice 9**
 
-...
+Initialiser un dictionnaire associant une chaîne de caractères à un caractère, le remplir et l'afficher.
+
+Si vous manquez d'inspiration, reprenez les prénoms de l'exercice 7 et à chacun d'entre eux associez-y sa première lettre.
+
 <br><br><br>
 
 

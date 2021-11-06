@@ -2,14 +2,14 @@
 
 ## **Exercice 1**
 
-...
+Écrire un programme qui demande son prénom à l'utilisateur et lui dit bonjour.
 <br><br><br>
 
 
 
 ## **Exercice 2**
 
-...
+Faire un programme qui demande à l'utilisateur combien de fois il veut voir "bonjour", puis, affiche "bonjour" autant de fois que nécessaire.
 <br><br><br>
 
 
@@ -24,5 +24,5 @@ import java.lang.Math;
 
 Ensuite, voici la ligne permettant de générer un entier aléatoire entre 0 et 50 :
 ```java
-int entier = (int) (Math.random()*50); // (int) convertit en entier
+int entier = (int) (Math.random()*50); // (int) conversion en entier
 ```
